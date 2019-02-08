@@ -8,7 +8,7 @@ import {
 } from '@angular/platform-browser-dynamic/testing';
 
 declare const require: any;
-
+var a : any;
 // First, initialize the Angular testing environment.
 getTestBed().initTestEnvironment(
   BrowserDynamicTestingModule,
